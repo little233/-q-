@@ -1,0 +1,8 @@
+C:\Users\tjxx_\Desktop\酷Q Pro\dev\app.json
+C:\Users\tjxx_\Desktop\酷Q Pro\dev\com.himagerobot.csharp.dll
+C:\Users\tjxx_\Desktop\酷Q Pro\dev\com.himagerobot.csharp.pdb
+E:\自编程\酷Q\Native.Framework4.5\Native.Core\obj\x86\Debug\Native.Core.csprojAssemblyReference.cache
+E:\自编程\酷Q\Native.Framework4.5\Native.Core\obj\x86\Debug\Native.Core.App.FrmAppSetting.resources
+E:\自编程\酷Q\Native.Framework4.5\Native.Core\obj\x86\Debug\Native.Core.csproj.GenerateResource.cache
+E:\自编程\酷Q\Native.Framework4.5\Native.Core\obj\x86\Debug\com.himagerobot.csharp.dll
+E:\自编程\酷Q\Native.Framework4.5\Native.Core\obj\x86\Debug\com.himagerobot.csharp.pdb
